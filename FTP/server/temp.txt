@@ -1,0 +1,3 @@
+total 8
+-rw-rw-r--. 1 zjl zjl 1377 Aug  7 21:22 file
+-rw-rw-r--. 1 zjl zjl 1350 Aug  7 21:23 work
